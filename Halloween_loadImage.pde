@@ -6,6 +6,11 @@ void setup() {
   image(img, 0, 0);
 }
 
+void draw()
+{
+
+}
+
 void mouseDragged()
 {
   
